@@ -1,0 +1,16 @@
+{
+    "prefix": "lcr.", 
+    "token": "ODc4NzU1ODUwODU1MDEwMzI0.YSFzKQ.nmw2JBkT3pXIV5Y76j3w5a837UY",
+
+    "MemberRoleID": "878640114455167036",
+    "WelcomeChannelID": "892867597522063402",
+    "RulesChannelID": "878651888722145321",
+    "WhitelistChannelID": "878653001051537498",
+    "EnterLogsID": "893997793780318328",
+    "ExitLogsID": "893997811597709332",
+    "BanLogsID": "893997834125328404",
+    "StatusChannelID": "894663796319219753",
+
+    "serverIP": "26.235.16.215",
+    "serverPort": "22003"
+}
